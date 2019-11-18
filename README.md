@@ -17,6 +17,9 @@ Football application that allow you to follow top football competitions.
 - Choose date and follow matches on that date
 - Ability to choose your favorite competitions and teams and follow them
 
+## Screencast
+[![Football App](http://img.youtube.com/vi/aj2D8JcoQQw/0.jpg)](http://www.youtube.com/watch?v=aj2D8JcoQQw "https://raw.githubusercontent.com/anavruzjon/Football-App/master/Screenshots/competition_detail.jpg")
+
 ## Screenshoots
 ![Alt text](/Screenshots/competition_list.jpg "Competition List")
 
