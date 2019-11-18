@@ -18,4 +18,4 @@ Football application that allow you to follow top football competitions.
 - Ability to choose your favorite competitions and teams and follow them
 
 ## Screenshoots
-![Alt text](/Screenshots/competition_list.jpg?raw=true "Competition List")
+![Alt text](/Screenshots/competition_list.jpg "Competition List")
