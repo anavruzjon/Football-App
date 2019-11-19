@@ -5,8 +5,7 @@ Football application that allow you to follow top football competitions.
 - MVVM
 - Kotlin
 - Kotlin Coroutines
-- Room database
-- Android Jetpack
+- Android Jetpack (Room, Data binding, LiveData, Navigation, ViewModel)
 - Retrofit
 - OkHttp
 
